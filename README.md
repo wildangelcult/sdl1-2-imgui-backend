@@ -1,5 +1,6 @@
 SDL 1.2 imgui backend
 =====================
+Moved to GitLab https://gitlab.com/wildangelcult/sdl1-2-imgui-backend
 
 Vytvářel jsem hacknutého klienta pro Assault Cube a zjistil, že neexistuje žádný ImGui backend pro SDL 1.2. Tak tady jeden je.
 
